@@ -1,0 +1,58 @@
+merestonam] PRINCIPIA MATHEMATICA. ’ 683
+
+Cos. 2. Ponamus quiid particulae medii in globum vel cylindrum
+incidentes non reflectantur3 et cylindrus incidendo perpendiculariter in
+particulas simplicem suam velocitatem ipsis communicabit, ideoque re·
+sistentiam patitur duplo minorem quim in priore casu, et resistentia globi
+erit ctiam duplo minor quim prius.
+
+Cos. 8. Ponamus quiid particulae medii vi reflexionis rieque maximi
+neque nulli, sed mediocri aliqud resiliant aglobo; et resistentia globi erit
+in eisdem ratione mediocri inter resistentiam in primo casu et resistentiam
+in secundo. Q. e. i.
+
+Corol. 1. Hinc si globus et particula sint infinite dura, et vi omni
+elasticai, et propterea etiam vi omni reflexionis destituta: resistentia globi
+erit ad vim quis totus ejus motus vel auferri possit vel generari, quo tem·
+pore globus quatuor tertias partes dimnetri suae describit, ut densitas me·
+dii ad densitatem globi.
+
+Corol. 2. (¹³) Resistentia globi, coeteris paribus, est in duplicatis ra·
+tione velocitatis.
+
+Corol. 8. (†) Resistentia globi, caeteris paribus, est in duplicati ratione
+diametri. , . ¹
+
+CoroL 4. Resistentia globi, ceteris paribus, est ut densitas medii.
+
+Corol. 5. Resistentia globi est in ratione quae componitur ex dupli-
+catis ratione velocitatis et duplicatis ratione diametri et ratione densitatis
+medii.
+
+Corol. 6. Et motus globi cum ejus resistentia sic exponi potest Sit
+A Β tempus quo globus per resistentiam suam uniformiter continuatam
+toturn suum motum amittere potest Ad AB erigantur perpendicula
+A D, B C. Sitque B C motus ille totus, et per punctum C asymptotis
+
+(ὓ) ” Resistentia globi, caetnis poribus, esl ia motibus qui unisonnes, saitem quern proxime,
+diquicotri ratione velocitatis. * Sint globi aequa· censentur, ergo resistentia momentaneo sunt
+asin eodeni medio moti diremdcurnvelocitate; bis ut velocitates, boc est in ratione duplic-tl
+motos totus uniuscujusque estad motum abipso velocitatis.
+communicatum ternpore qno duas tertias suae (†) · Resistentia globi, calnisporr'bnr, est in
+diametri percurrit, ut densitates globorum ad duplicotdrolr'one diametri. · Sint globi eequi-
+densitstes mediorum, ideoque er hypothesi in veloces, arque densi, in eodem medio moti, ned
+eidem ratione, ergo etiam velocitas unius est ad diversae sint earnm dimnetri, linguntur dno cy·
+velocitatem alterius ut motus ab illis communi· lindri ejusdem enm iis diametri, et etiam aqui.
+sati temporibus quibus duas tertias suarum dis· veloces et reque densi, resistentie quas perientur
+metrorum 1grequales quippe longitudines) per- cylindri singulis momentis erunt ut numerus
+currunt. iriduntur illa tempora in partes mi· partium in quas incurrunt, illi veri> numeri per.
+trimas utrinque equales, etquis resistentiasin- tium sunt ut quadrata diametrorum: sed facile
+gulis momentis, ejusdem globi respectu, unisor- liquet resistentiss cylindrorum et globorum requi.
+mis censetur, resistentie momentanee erunt di· velocium, ejusdem diametri, in eodem medioesse
+mete ut motus amissi et inverse ut tempora qui· in dmiratione, ergo ut resistentiaunius cylindri
+bus emittuntur, sed motus amissi sunt ιιι veio- ed resistentiam ulteriusiteresistentiauniusglobi
+ciretes directe et tempora snnt inverse ut veloci- ed resistentiam alterius, sunt ergo globorum rs.
+tetes, quia aquales longitudines percurruntur mnaeutqusdrsts dionenorum.
+
+ 
+

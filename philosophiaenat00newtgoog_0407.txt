@@ -1,0 +1,31 @@
+Lmen Pmou] PRINCIPIA MATHEMATICA. 869
+
+LEMMA XXIX. ¹
+
+Si describantur centra 'S circulus quilibet A Fe B, et centro P circuli cluo E F,
+ef, secantes priorem in E, e, lineamque P S in F, f 3 et ad P S demittan-
+tur perpendicula E D, ed: dico qrcod, ei distantia mnium E F, ef in in-
+
+finitum minui intelligatur, ratio ultima lineae evanescentis Dyd ad lineam
+evanescentem F f ea sit, qua linea P E ad lineam P S.
+
+Nam si linea P e secet arcum E F in q; et recta E e, quae cum arcu
+evanescente E e coincidit, producta occurrat rectae P S in T; et ab sde-
+
+mittntur in P E normalis S G: ob (²) ·s1milia triangula D T E, d T e,
+DE& erithudEe‚ utDT nd TE, seuDEadE S; et ob (⁸¹)
+telungula Ε e q, E S G (per Lem. VIII. et Corol. 3. Lem.v11.) similia,
+eritEendeqseuFfutESudSG3 etexaequo‚Ddadeut DE
+ndSG5 hocest (ob similia triangulaPDE, PGS) ut PEadPS
+Q. e. d.
+
+(ι) ⁰ ob simnia triangula D T Ε, el T e, (¹¹) ⁸ Et al triangula E e q, ll S G, &c-
+1> Ε S· Ob parallelus D E, d e. triangula Anguli nd Getqrecti suntetproindeoequulen
+Ι) T B, d, T e simili· nunu et quonium rectu et quonium anguli P B q. S E e sunt quoque
+T Β circulum A E [iungit in E, erit ungulus recti et equialen. (ex nnturi circuli) neuneu
+SE Tactus, et proinde deminuo ex puncto E communi ungulo S E q, anguli residui G E s,
+nd basim S T perpendiculo E D. erit trinngu· qE e, erunt etium equales. Quat& triangula
+1¹:9⁶·ss {gyssa trianguloDTE (Pruna 2¹2³.)ss S G untldmilin (Prouehis.
+
+ 
+

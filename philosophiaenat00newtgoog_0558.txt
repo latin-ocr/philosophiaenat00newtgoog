@@ -1,0 +1,51 @@
+520 PHILOSOPHIAE NATURALIS [Moacmror.
+
+PROPOSITIO XII. THEOREMA IX.
+
+Isidem positis, dico quidsi spotia deanpto amantur ia progressione arta-
+actico, velocitates doit paidom qrmntitote aneta erunt in progressione
+geometrici.
+
+. In asymptoto CD detur punctum R, et erecto perpendiculo R St
+quod occurrat hyperbolae in S, exponatur descriptum spatium per aream
+hyperbolicam R S E D; et velocitas erit ιιι longitudo G D, quae ιιιιιι
+dati CG componit longitudinem CD in progressione geometrici de·
+crescentem, interea dum spatium R S E D augetur in arithmetici.
+
+(l) Etenim ob datum spatii
+incrementum E D d e, lineola
+D d, quae decrementum est ip-
+sius G D, erit reciproci ut ΕΙ),
+ideoque ¹directe ut cD, hoc
+est, ut summa ejusdem G D
+et longitudinis date C G. Sed
+velocitatis decrementum, tem· ,
+pore sibi reciproce proportio- ⁰ G A Dd lt
+nali, quo data spatii particula ’
+D d e E describitur, (¹) est ut resistentia et tempus conjunctim, id est di·
+recti ut summa duarum quantitatum, quarum una est ut velocitas, altera
+ut velocitatis quadratum, et inversi ut velocitas ; ideoque directe utsumm
+duarum quantitatum, quarum una datur, altera est ut velocitas. Dare
+mentum igitur tam velocitatis quarn lineae G D, est ut quantitas data et
+quantitas decrescens conjunctim, et propter analoga decrementa, (ι) ιιι·
+logae semper erunt quantitates decrescentes3 nimirum velocitas et line
+G D. Q. e. d.
+
+Corol. 1. Si velocitas exponatur per longitudinem G D, spatium de·
+scriptum erit ut area hyperbolica D E S R.
+
+Coroi. 2. Et si utcunque assumatur punctum R, invenietur punctumG
+
+· capiendo G R ad G D, ut est velocitas sub initio ad velocitatem post spe·
+
+(¹²') Etenim ob datu m ιριιιι aincrementum m, adedque dato spatii nineremento ut abdue
+perhppothesimqui sirspat srrrrpponunt ιιιιιιιιι ’-ιιιι verse. Quare dstospatiiin ncrememmloeiai·
+metica ciprogressino ecrescere decrementum est ιιιιιιιιιιιιι ιιιιιαεειιιιιό·
+
+(1)· Est ut resistentia ιιιιιιιιιριιιιο ajunetim. ιιιιιιι emdidntdirectiutmmmsdum
+velocitatis decrementum ιιι ιιι resistentia et quantitatum misc.
+tempus conjuncti (15), tempus ero estut ιιι (Ψ Aniitgoesempererant, ιιι. (Per Ca·
+cremonam spatii directe et velocitas invene, Lem. lv. ΙιΊι. 1..)
+
+ 
+
